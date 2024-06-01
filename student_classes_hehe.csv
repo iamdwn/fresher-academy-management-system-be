@@ -1,0 +1,7 @@
+"student_class_id";"attending_status";"certification_date";"certification_status";"final_score";"gpa_level";"method";"result";"class_id";"student_id"
+1;"Drop out";"2024-01-02";"Not yet";0.0;"0";"0";"0";1;1
+2;"Reserved";"2024-01-05";"Not yet";0.0;"0";"0";"0";1;2
+3;"In class";"2024-01-05";"Not yet";0.0;"0";"0";"0";2;1
+4;"Reserved";"2024-01-05";"Not yet";0.0;"0";"0";"0";2;6
+5;"Reserved";"2024-01-05";"Not yet";0.0;"0";"0";"0";2;3
+6;"In class";"2024-01-05";"Not yet";0.0;"0";"0";"0";1;5
